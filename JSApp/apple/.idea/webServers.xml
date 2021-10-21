@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="107ef375-44d6-4285-bfa5-2b863e240901" name="appleServer" url="http://localhost/apple">
+        <fileTransfer mountedRoot="/Applications/XAMPP/xamppfiles/htdocs/apple" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
